@@ -939,7 +939,7 @@ button:focus-visible {
     position: relative;
     background:
         linear-gradient(135deg, rgba(6, 27, 51, .97), rgba(16, 60, 109, .93)),
-        url("assets/images/banners/interior loja balcao.jpg") center / cover;
+        url("assets/images/banners/interior-loja-balcao.jpg") center / cover;
     color: var(--white);
     padding: 92px 0;
 }
